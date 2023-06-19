@@ -31,3 +31,13 @@ D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\obj\
 D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\obj\Debug\net7.0\UserApi.pdb
 D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\obj\Debug\net7.0\UserApi.genruntimeconfig.cache
 D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\obj\Debug\net7.0\ref\UserApi.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\JwtAuthenticationManager.dll
+D:\Vishal\Projects\Practice\NetCoreApiEcommerce\NetCoreApiEcommerce\UserApi\bin\Debug\net7.0\JwtAuthenticationManager.pdb
